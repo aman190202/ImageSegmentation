@@ -1,0 +1,6 @@
+numpy
+matplotlib
+tensorflow
+tensorflow_hub
+python-opencv2
+pillow

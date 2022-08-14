@@ -1,6 +1,5 @@
 import io
 import numpy as np
-import requests
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import tensorflow_hub as hub
